@@ -16,6 +16,7 @@
 - Bootstrap
 
 ## 画面
+<img width="1200" height="825" alt="Image" src="https://github.com/user-attachments/assets/725384fa-10b3-44e0-9648-4a6d5622aa9d" />
 
 ## 修正したいこと
 入力をセレクトにしたい...？  
